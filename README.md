@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#
-
-<div>
+# 
 
 ### </a> <a href="https://github.com/AdryanMaikel"><img src="https://github.githubassets.com/assets/gh-desktop-7c9388a38509.png" width=40 /></a> <a href="https://github.com/AdryanMaikel"><img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width=40 />  <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/>  Estudando atualmente: </a>
 
-</div>
 
 <div id=estudando>
 
