@@ -1,10 +1,6 @@
 <!-- AdryanMaikel    <img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=compact&langs_count=7&theme=dracula"/>-->
 
-
-# <img  src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&duration=1100&pause=2000&color=0071C5&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Olá meu nome é Adryan Maikel"/>
-
-
-
+<img  src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&duration=1100&pause=2000&color=0071C5&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Olá meu nome é Adryan Maikel"/> 
 
 <!--
 **AdryanMaikel/AdryanMaikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <a href="https://github.com/AdryanMaikel"><img src="https://github.githubassets.com/assets/gh-desktop-7c9388a38509.png" width=40 /></a> 
+#
 
-## <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/> Estudando atualmente: </a>
+<div>
+
+### </a> <a href="https://github.com/AdryanMaikel"><img src="https://github.githubassets.com/assets/gh-desktop-7c9388a38509.png" width=40 /></a> <a href="https://github.com/AdryanMaikel"><img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width=40 />  <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/>  Estudando atualmente: </a>
+
+</div>
 
 <div id=estudando>
 
