@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGS-Adryan&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGS-Adryan&show_icons=true&theme=transparent&locale=pt-br)
 
